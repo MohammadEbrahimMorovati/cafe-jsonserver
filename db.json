@@ -1,6 +1,6 @@
 {
   "categories": [
-    { "id": 1, "name": "برگر", "image": "cat-burger.png" },
+    { "id": 1, "name": "برگر", "image": "./images/burger.jpg" },
     { "id": 2, "name": "نوشیدنی", "image": "cat-drink.png" },
     { "id": 3, "name": "دسر", "image": "cat-dessert.png" },
     { "id": 4, "name": "پیش‌غذا", "image": "cat-appetizer.png" },
@@ -360,7 +360,7 @@
       "image": "smoothie2.png",
       "categoryId": 19,
       "time": "2025-07-25T02:10:00Z",
-      "discount": 0
+      "discount": 1
     }
   ],
 

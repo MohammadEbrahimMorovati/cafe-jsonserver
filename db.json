@@ -1,4 +1,7 @@
 {
+  "siteInfo": {
+    "title": "کافه رستوران مورو"
+  },
   "categories": [
     { "id": 1, "name": "برگر", "image": "./images/burger.jpg" },
     { "id": 2, "name": "نوشیدنی", "image": "cat-drink.png" },

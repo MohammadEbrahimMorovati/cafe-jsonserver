@@ -3,8 +3,17 @@
     "name": "light",
     "primary": "#613A27",
     "secondary": "#FBE6D3",
-    "bodyBg": "#FBE6D3"
+    "bodyBg": "#FBE6D3",
+    "textPrimary": "#333333",
+    "textSecondary": "#666666",
+    "cardBg": "#FFFFFF",
+    "borderColor": "#FFD700",
+    "featuredBadgeBg": "#FFD700",
+    "featuredBadgeText": "#FFFFFF",
+    "productTitle": "#A0522D",
+    "productDescription": "#444444"
   },
+
 
   "siteInfo": {
     "title": "کافه رستوران مورو"
@@ -45,16 +54,6 @@
       "categoryId": 1,
       "time": "2025-07-24T12:10:00Z",
       "discount": 15
-    },
-    {
-      "id": 3,
-      "name": "چیزبرگر",
-      "description": "گوشت + پنیر چدار + سس",
-      "price": 210000,
-      "image": "cat-burger.jpg",
-      "categoryId": 1,
-      "time": "2025-07-24T12:20:00Z",
-      "discount": 0
     },
     {
       "id": 4,
@@ -118,6 +117,16 @@
     },
     {
       "id": 10,
+      "name": "سوپ جو",
+      "description": "جو، سبزیجات، خامه",
+      "price": 90000,
+      "image": "cat-burger.jpg",
+      "categoryId": 8,
+      "time": "2025-07-24T16:00:00Z",
+      "discount": 0
+    },
+    {
+      "id": 11,
       "name": "سوپ جو",
       "description": "جو، سبزیجات، خامه",
       "price": 90000,
